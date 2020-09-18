@@ -1,0 +1,12 @@
+header {
+  background-color: #000;
+  @include fixed (0,0,0);
+  .top {
+    max-width: $maxW1000;
+    height: $topHeight;
+    margin: 0 auto;
+    &-img {
+      height: $topHeight;
+    }
+  }
+}

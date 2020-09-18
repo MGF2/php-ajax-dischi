@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #fff;
+}
+
+header {
+  background-color: #000;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+
+header .top {
+  max-width: 1000px;
+  height: 60px;
+  margin: 0 auto;
+}
+
+header .top-img {
+  height: 60px;
+}
+
+main {
+  background-color: #222326;
+}
+
+main .container {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 80px 0;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+main .container .cd {
+  background-color: #191414;
+  text-align: center;
+  padding: 20px;
+  margin: 10px;
+  max-width: 250px;
+}
+
+main .container .cd-poster {
+  height: 200px;
+}
+

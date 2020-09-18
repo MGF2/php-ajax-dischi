@@ -1,0 +1,12 @@
+@mixin fixed ($top,$left,$right) {
+  position: fixed;
+  top: $top;
+  left: $left;
+  right: $right;
+}
+
+@mixin flex ($content,$wrap) {
+  display: flex;
+  justify-content: $content;
+  flex-wrap: $wrap;
+}
