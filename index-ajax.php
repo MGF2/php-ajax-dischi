@@ -12,10 +12,26 @@
     <header>
       <div class="top">
         <img class="top-img" src="https://developer.spotify.com/assets/branding-guidelines/icon3@2x.png" alt="logo">
+        <div class="sele">
+          <select id='scelta'name="">
+              <option value="All">All</option>
+              <option value="Bon Jovi">Bon Jovi</option>
+              <option value="Queen">Queen</option>
+              <option value="Sting">Sting</option>
+              <option value="Steve Gadd Band">Steve Gadd Band</option>
+              <option value="Iron Maiden">Iron Maiden</option>
+              <option value="Eric Clapton">Eric Clapton</option>
+          </select>
+        </div>
       </div>
     </header>
     <main>
+
+
       <div class="container">
+
+
+
 
       </div>
     </main>
