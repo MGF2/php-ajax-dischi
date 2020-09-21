@@ -8,6 +8,7 @@ include 'db.php';
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="dist/app.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.1.2/handlebars.min.js"></script>
     <title>PHP Ajax Dischi</title>
   </head>
   <body>
